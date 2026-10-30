@@ -1,3 +1,4 @@
+![Dashboard](images/Retail Sales Dataset Project Dashboard.png)
 # Retail Sales Analysis
 
 An Excel-based analysis of 1,000 retail transactions (January 2023 – January 2024) covering overall sales performance, customer purchasing behavior, product performance and monthly sales trends. The goal is to support data-driven business decisions.
