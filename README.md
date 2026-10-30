@@ -1,4 +1,5 @@
-![Dashboard](Documents/Dashboard.png)
+<img width="540" height="303" alt="Dashboard" src="https://github.com/user-attachments/assets/15732948-e861-49a9-9438-679901aa9be1" />
+
 # Retail Sales Analysis
 
 An Excel-based analysis of 1,000 retail transactions (January 2023 – January 2024) covering overall sales performance, customer purchasing behavior, product performance and monthly sales trends. The goal is to support data-driven business decisions.
